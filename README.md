@@ -4,16 +4,25 @@ Othello(Reversi) Game
 Implemented in Mac OS, used GCC compiler, in C
 
 ---DIRECTION KEY---
+
 Left: 9'o clock direction
+
 Right: 3'o clock direction
+
 Up: 12'o clock direction
+
 Down: 6'o clock direction
+
 LeftUp: 11'o clock direction
+
 LeftDown: 7'o hour direction
+
 RightUp: 1'o hour direction
+
 RightDown: 5'o hour direction
 
 ---FUNCTIONS---
+
 clearBoard: sets all elements of the board to 0
 
 initGame: initial setup of the game. Place black and white token in the middle of the board
