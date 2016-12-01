@@ -15,11 +15,11 @@ Down: 6'o clock direction
 
 LeftUp: 11'o clock direction
 
-LeftDown: 7'o hour direction
+LeftDown: 7'o clock direction
 
-RightUp: 1'o hour direction
+RightUp: 1'o clock direction
 
-RightDown: 5'o hour direction
+RightDown: 5'o clock direction
 
 ---FUNCTIONS---
 
